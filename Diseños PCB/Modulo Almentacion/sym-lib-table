@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Modulo-Alimentacion-rescue)(type Legacy)(uri "${KIPRJMOD}/Modulo Alimentacion-rescue.lib")(options "")(descr ""))
+)
